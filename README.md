@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Lucas</h1>
-<h3 align="center">Sou um desenvolvedor web, do Brasil, que adora código aberto. Eu codifico principalmente em PHP (Laravel), mas estou sempre aprendendo (Golang e Flutter).</h3>
+<h3 align="center">Sou um desenvolvedor web, do Brasil, que adora código aberto. Eu codifico principalmente em PHP (Laravel), mas estou sempre aprendendo (Golang e React).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaolucassilva" alt="joaolucassilva" /> </p>
 
