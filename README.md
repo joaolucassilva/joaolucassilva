@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cloudfox**
 
-- 🌱 I’m currently learning **PHP and React**
+- 🌱 I’m currently learning **PHP and Golang**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
