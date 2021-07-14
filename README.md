@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cloudfox**
 
-- 🌱 I’m currently learning **PHP and Golang**
+- 🌱 I’m currently learning **PHP**
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
@@ -25,9 +25,6 @@
     <a href="https://laravel.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
     </a>  
-    <a href="https://golang.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
-    </a> 
     <a href="https://www.mysql.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a> 
