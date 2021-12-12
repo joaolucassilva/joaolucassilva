@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Lucas</h1>
-<h3 align="center">I'm a web developer, from Brazil,who loves open source. I code mainly in PHP (Laravel, lumen etc...), but i'm always learning (PHP and Golang).</h3>
+<h3 align="center">I'm a web developer, from Brazil. I code mainly in PHP (Laravel, lumen etc...), but i'm always learning (PHP and Golang).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaolucassilva" alt="joaolucassilva"/> </p>
 
