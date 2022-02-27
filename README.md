@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Lucas</h1>
-<h3 align="center">I'm a web developer, from Brazil. I code mainly in PHP (Laravel, lumen etc...), but i'm always learning (PHP and Golang).</h3>
+<h3 align="center">I'm a web developer, from Brazil. I code mainly in PHP (Laravel, lumen etc...), but i'm always learning (Javascript).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaolucassilva" alt="joaolucassilva"/> </p>
 
@@ -9,8 +9,14 @@
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
+    <a href="https://twitter.com/joaoluc50765283" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="joao-lucas" style="max-width: 100%;"/>
+    </a>
     <a href="https://linkedin.com/in/joao-lucas" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joao-lucas" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joao-lucas" style="max-width: 100%;"/>
+    </a>
+    <a href="https://leetcode.com/luccas332/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="joao-lucas" style="max-width: 100%;"/>
     </a>
 </p>
 
