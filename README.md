@@ -49,6 +49,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaolucassilva&show_icons=true" alt="joaolucassilva" /></p>
 
-<a href="https://app.daily.dev/DailyDevTips">
-    <img src="https://github.com/joaolucassilva/joaolucassilva/blob/main/devcard.svg" width="400" alt="João Lucas's Dev Card"/>
-</a>
+
