@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **PHP (Laravel/Slim), Golang**
-
+.
 - 💬 Ask me about **PHP, unit tests and technology**
 
 - 📫 How to reach me **luccas332@gmail.com**
@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaolucassilva&show_icons=true&locale=en" alt="joaolucassilva" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaolucassilva&" alt="joaolucassilva" /></p>
+
+<a href="https://app.daily.dev/joaolucas_"><img src="https://github.com/joaolucassilva/joaolucassilva/blob/main/devcard.svg" width="400" alt="João Lucas's Dev Card"/></a>
