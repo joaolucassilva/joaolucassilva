@@ -1,88 +1,68 @@
-<h1>Hi 👋, I'm João Lucas</h1>
-<h3>A passionate backend developer from Brazil</h3>
+# 👋 Hey, I'm João Lucas
 
-<p>
-    <img src="https://komarev.com/ghpvc/?username=joaolucassilva&label=Profile%20views&color=0e75b6&style=flat" alt="joaolucassilva"/>
+> 🧠 Backend Engineer | Laravel, Hyperf & Go | Building scalable, observable, and maintainable systems
+
+---
+
+### 🚀 About Me
+
+I'm a **Backend Engineer** passionate about **high-performance architectures**, **clean code**, and **software observability**.
+Currently focused on mastering **Laravel**, **Hyperf**, and **modern Devops practices** to reach **senior-level proficiency** and contribute to global-scale projects.
+
+I love transforming complex business domains into elegant, maintainable solutions - because **great systems are engineered, not improvised**.
+
+---
+
+
+### 🧩 Core Tech Stack
+
+#### 🖥️ Backend
+- **Languages:** PHP(Laravel, Hyperf), Javascript, Go (Gin)
+- **Architectures:** Domain-Driven Design (DDD), Clean Architecture, Event-Driven Systems, Microservices
+- **Testing:** PHPUnit, Pest
+- **Async & Queues:** Redis, RabbitMQ, Kafka, SQS, Horizon, Swoole
+
+### DevOps & Observability
+- Docker, Docker Compose
+- OpenTelemetry (Traces, Metrics, Logs)
+- Prometheus, Grafana, Jaeger, Loki
+- Github Actions (CI/CD)
+
+### Data
+- MySQL, Redis, Valkey, MongoDB
+- Eloquent ORM, Query Optimization, Migrations, Indexing Strategies
+
+### Cloud & Integrations
+- AWS (S3, SNS, EC2)
+- OAuth 2.0, RESTful APIs
+
+### 💡 Featured Projects
+
+#### 💰 **Black Watcher (Black Friday Monitor)**
+> Tracks e-commerce prices (Amazon, etc.) with scraping + affiliate integration.  
+🔗 [View Repository](#)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joaolucas&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joaolucas&theme=radical" />
 </p>
 
-<p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=joaolucassilva" alt="joaolucassilva"/>
-    </a>
-</p>
+---
 
-- 🌱 I’m currently learning **PHP and Golang**.
-- 💬 Ask me about **technology**.
-- 📫 How to reach me: **luccas332@gmail.com**.
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/joao-lucas/).
+### 🌍 Connect With Me
 
-<h3>Connect with me:</h3>
-<p>
-    <a href="https://linkedin.com/in/joao-lucas" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao-lucas" height="30" width="40"/>
-    </a>
-    <a href="https://www.leetcode.com/luccas332" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luccas332" height="30" width="40"/>
-    </a>
-</p>
-
-<h3>Languages and Tools:</h3>
-<p>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-    </a>
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="apachekafka" width="40" height="40"/>
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line.svg" alt="laravel" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain-wordmark.svg" alt="gitlab" width="40" height="40"/>
-    </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-    </a>
-</p>
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaolucassilva&show_icons=true&locale=en&layout=compact" alt="joaolucassilva"/>
-</p>
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=joaolucassilva&show_icons=true&locale=en" alt="joaolucassilva"/>
-</p>
-
-<p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaolucassilva" alt="joaolucassilva"/>
-</p>
-
-<p>
-    <a href="https://app.daily.dev/joaolucas_">
-        <img src="https://github.com/joaolucassilva/joaolucassilva/blob/main/devcard.svg" width="400" alt="João Lucas's Dev Card"/>
-    </a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/joaolucas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:luccas332@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/joaolucassilva">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
 </p>
