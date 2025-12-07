@@ -38,10 +38,6 @@ I love transforming complex business domains into elegant, maintainable solution
 
 ### 💡 Featured Projects
 
-#### 💰 **Black Watcher (Black Friday Monitor)**
-> Tracks e-commerce prices (Amazon, etc.) with scraping + affiliate integration.  
-🔗 [View Repository](#)
-
 ---
 
 ### 📊 GitHub Stats
