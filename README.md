@@ -17,7 +17,7 @@ I love transforming complex business domains into elegant, maintainable solution
 ### 🧩 Core Tech Stack
 
 #### 🖥️ Backend
-- **Languages:** PHP(Laravel, Hyperf), Javascript, Go (Gin)
+- **Languages:** PHP(Laravel, Hyperf)
 - **Architectures:** Domain-Driven Design (DDD), Clean Architecture, Event-Driven Systems, Microservices
 - **Testing:** PHPUnit, Pest
 - **Async & Queues:** Redis, RabbitMQ, Kafka, SQS, Horizon, Swoole
